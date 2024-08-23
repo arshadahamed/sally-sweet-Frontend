@@ -1,0 +1,108 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Twirl Chocoloate",
+            "description": "Delicious milk chocolate",
+            "price": 3.99,
+            "imageUrl": "../src/assets/products/twirl.png",
+            "category": "all"
+        },
+        {
+            "id": 2,
+            "name": "Snickers",
+            "description": "Classic chocolate bar with peanuts and caramel",
+            "price": 2.49,
+            "imageUrl": "../src/assets/products/Snickers.png",
+            "category": "all"
+        },
+        {
+            "id": 3,
+            "name": "KitKat",
+            "description": "Crunchy wafer covered in milk chocolate",
+            "price": 1.99,
+            "imageUrl": "../src/assets/products/Kitkat.jpg",
+            "category": "all"
+        },
+        {
+            "id": 4,
+            "name": "Galaxy",
+            "description": "Colorful candy-coated chocolate",
+            "price": 0.99,
+            "imageUrl": "../src/assets/products/Galaxy.png",
+            "category": "all"
+        },
+        {
+            "id": 5,
+            "name": "Dairy Milk",
+            "description": "Milk chocolate cups filled with peanut butter",
+            "price": 1.49,
+            "imageUrl": "../src/assets/products/DairyMilk.png",
+            "category": "all"
+        },
+        {
+            "id": 6,
+            "name": "Toblerone",
+            "description": "Delicious milk chocolate",
+            "price": 3.99,
+            "imageUrl": "../src/assets/products/Toblerone.png",
+            "category": "all"
+        },
+        {
+            "id": 7,
+            "name": "Hershey's Milk Chocolate",
+            "description": "Delicious milk chocolate",
+            "price": 2.49,
+            "imageUrl": "../src/assets/products/Hershey.png",
+            "category": "all"
+        },
+        {
+            "id": 8,
+            "name": "Twix",
+            "description": "Crunchy wafer covered in milk chocolate",
+            "price": 1.99,
+            "imageUrl": "../src/assets/products/Twix.png",
+            "category": "all"
+        },
+        {
+            "id": 9,
+            "name": "M&M's",
+            "description": "Colorful candy-coated chocolate",
+            "price": 0.99,
+            "imageUrl": "../src/assets/products/MM-peanut.jpg",
+            "category": "all"
+        },
+        {
+            "id": 10,
+            "name": "Pick & Mix",
+            "description": "Mix and match your favorite candies",
+            "price": 1.49,
+            "imageUrl": "../src/assets/products/PickMix.png",
+            "category": "all"
+        }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "title": "Birthday Party",
+            "image": "../src/assets/Images/Events/Birthday.jpg",
+            "description": "Description for BirthDay Party",
+            "date": "2024-01-01"
+        },
+        {
+            "id": 2,
+            "title": "Christmas Party",
+            "image": "../src/assets/Images/Events/chrismas.jpg",
+            "description": "Description for Christmas Party",
+            "date": "2024-01-02"
+        },
+        {
+            "id": 3,
+            "title": "Arshad Party",
+            "image": "../src/assets/Images/Events/anni.jpg",
+            "description": "Description for Anniversary Party",
+            "date": "2024-01-02"
+        }
+    ]
+}
+  
